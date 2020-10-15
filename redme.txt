@@ -1,0 +1,11 @@
+// function insertToken(token){
+        //     $.ajax({
+        //         type: "GET",
+        //         url: '<?php echo $this->escape($this->url(array(), 'inserttoken'))."?forAjax=true"; ?>',
+        //         data: {'token_id': 151,'card_id': "ask"},
+        //         dataType: "json",
+        //         success: function (response) {
+        //             console.log("done");
+        //         }
+        //     });
+        // }
